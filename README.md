@@ -1,7 +1,7 @@
 # Hi, I'm Suherman 👋
 
-I’m a **Tech Lead / Solution Architect** based in Sydney, Australia, with **15+ years of experience** in end-to-end software architecture and development.  
-I specialize in **scalable cloud-native systems**, **microservices**, and **DevOps practices** across AWS, GCP, and Alibaba Cloud.  
+I’m a **Tech Lead / Solution Architect** based in Sydney, Australia, with experience in **end-to-end software architecture and development since 2000**.  
+I’ve been **building cloud solutions since 2011**, specializing in **scalable cloud-native systems**, **microservices**, and **DevOps practices** across AWS, GCP, and Alibaba Cloud.  
 
 ---
 
