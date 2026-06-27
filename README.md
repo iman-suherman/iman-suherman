@@ -2,7 +2,7 @@
 
 **Technology Enthusiast · Cloud Computing Engineer · Microservices Architect**
 
-Greater Sydney Area
+Greater Sydney Area · [LinkedIn](https://www.linkedin.com/in/suhermaniman/)
 
 I am a technology leader and hands-on engineer with 20+ years designing, building, and scaling complex systems across cloud, microservices, and modern web and mobile platforms. I work with TypeScript, JavaScript, Python, Java, and Go, and with cloud-native services on AWS, GCP, and Azure. My technical focus includes serverless architectures, real-time systems, CI/CD, container orchestration, observability, and security, aligning technology strategy with business outcomes.
 
@@ -34,7 +34,7 @@ Arctic Code Vault contributor. Active across organization repositories including
 
 ## Contact
 
-Email: [iman.suherman@gmail.com](mailto:iman.suherman@gmail.com)
+Email: [iman.suherman@gmail.com](mailto:iman.suherman@gmail.com) · [LinkedIn](https://www.linkedin.com/in/suhermaniman/)
 
 Sydney, Australia
 
