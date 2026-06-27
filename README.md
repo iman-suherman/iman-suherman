@@ -2,13 +2,19 @@
 
 **Technology Enthusiast · Cloud Computing Engineer · Microservices Architect**
 
-Greater Sydney Area · [blog.suherman.net](https://blog.suherman.net)
+Greater Sydney Area
 
 Technology leader and hands-on engineer with 20+ years designing, building, and scaling complex systems across cloud, microservices, and modern web and mobile platforms. Focused on serverless architectures, real-time systems, CI/CD, container orchestration, observability, and security — aligning technology strategy with business outcomes.
 
 **Principal Engineer** at **Qantas Loyalty** (since 2021) on the **Universal Retail Platform (URP)** — large-scale retail eCommerce, microservices, and event-driven integration. Leads technical strategy, engineering practices, and delivery across the URP domain.
 
 **DevOps Engineering Lead** at **Mekari** — infrastructure maturity, CI/CD, observability, security, and cost optimization for multi-tenant SaaS, FinTech, and logistics platforms in Indonesia. Previously **VP of Technology** and **Head of Infrastructure** at Jojonomic (Mekari Officeless).
+
+## Projects
+
+- **[Nucleus](https://nucleus.suherman.net/)** — Personal Workspace for macOS. A native app that unifies Gmail, Google Chat, Google Calendar, clipboard history, and Markdown notes into one command center for professionals juggling multiple Google accounts. Includes Sparkle auto-updates, signed releases, and Nucleus Cloud Sync for settings and data across devices.
+- **[DiskWise](https://diskwise.suherman.net/)** — Intelligent disk analyzer and cleanup assistant for macOS. Scans volumes, surfaces duplicate and stale media, estimates reclaimable space, and suggests actionable cleanup plans with an AI storage consultant — moving files to Trash with preview and undo-friendly workflows.
+- **[CT MCP](https://ct-mcp.suherman.net/)** — Commerce MCP Studio: a VS Code extension for configuring, exploring, and testing [Commerce MCP](https://docs.commercetools.com/dev-tooling/mcp/commerce-mcp) servers with commercetools projects. Manage connections in a side panel, discover tools dynamically, run them in a playground, and download signed VSIX releases from the public registry.
 
 ## Technical focus
 
@@ -35,6 +41,6 @@ Arctic Code Vault contributor. Active across organization repositories including
 
 ## Contact
 
-[blog.suherman.net](https://blog.suherman.net) · iman.suherman@gmail.com · Sydney, Australia
+iman.suherman@gmail.com · Sydney, Australia
 
 **Languages:** English (professional), Indonesian (native), Malay (limited working)
