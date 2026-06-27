@@ -1,47 +1,32 @@
-# Hi, I'm Suherman 👋
+# Iman Suherman
 
-I’m a **Tech Lead / Solution Architect** based in Sydney, Australia, with experience in **end-to-end software architecture and development since 2000**.  
-I’ve been **building cloud solutions since 2011**, specializing in **scalable cloud-native systems**, **microservices**, and **DevOps practices** across AWS, GCP, and Alibaba Cloud.  
+Tech lead and solution architect based in Sydney. Building software since 2000; focused on cloud-native systems, distributed architecture, and production operations since 2011 across AWS, GCP, and Alibaba Cloud.
 
----
+Currently with **Qantas Loyalty** on the Unified Retail Platform (URP) — large-scale retail eCommerce, microservices, and event-driven integration. Also contributes architecture and infrastructure work for **Mekari Officeless** (multi-tenant SaaS, FinTech, and logistics platforms in Indonesia).
 
-## 🌏 About Me
-- 💼 Currently part of the **Qantas Loyalty** engineering team, working on large-scale retail eCommerce platforms (URP – Unified Retail Platform).  
-- 🔧 Experienced in designing **microservices**, **serverless systems**, and **event-driven architectures**.  
-- 📊 Passionate about **observability** (Grafana, Splunk, OTEL), **performance optimization**, and **cost efficiency** in cloud workloads.  
-- 👨‍🏫 Active in **knowledge sharing**: tech brown-bag sessions, architecture reviews, and mentoring engineers.  
-- 🌐 Side projects with **Mekari Officeless**, focusing on multi-tenant infra, FinTech, and logistics systems in Indonesia.  
+Interested in systems that remain observable and operable in production — metrics, tracing, and logging with Grafana, Splunk, and OpenTelemetry. Runs brown-bag sessions and architecture reviews when time allows.
 
----
+## Technical focus
 
-## 🛠️ Tech Stack
-- **Languages**: TypeScript, Python, Java, Go  
-- **Cloud Platforms**: AWS (Lambda, SNS/SQS, CDK), GCP (BigQuery, Cloud Run), Alibaba Cloud  
-- **Infra & Tools**: Kubernetes, Terraform, Docker/Podman, Jenkins, GitHub Actions  
-- **Databases**: MongoDB (replica sets, Atlas/self-hosted), PostgreSQL, DynamoDB  
-- **Observability**: Grafana, Prometheus, Splunk, OpenTelemetry  
+**Languages:** TypeScript, Python, Java, Go
 
----
+**Cloud and platform:** AWS (Lambda, SNS/SQS, CDK), GCP (BigQuery, Cloud Run), Kubernetes, Terraform, Docker/Podman
 
-## 📈 GitHub Highlights
-- [localstack](https://github.com/localstack/localstack) – Contributed to local AWS cloud stack for offline serverless development.  
-- [nextjs-lambda-cdk](https://github.com/iman-suherman/nextjs-lambda-cdk) – Next.js app deployed on AWS Lambda with CDK.  
-- [btc-lo-extractor](https://github.com/iman-suherman/btc-lo-extractor) – TypeScript-based extractor project.  
-- [weather-forecast-function](https://github.com/iman-suherman/weather-forecast-function) – Serverless function for weather forecasting.  
+**Data:** MongoDB, PostgreSQL, DynamoDB
 
----
+**Delivery:** Jenkins, GitHub Actions
 
-## 🏆 Achievements
-- **Arctic Code Vault Contributor** ❄️  
-- 3,000+ contributions in the last year  
-- Active member of organizations:  
-  - @qantasloyalty  
-  - @qantas-cloud  
-  - @PT-Jojonomic-Indonesia  
-  - @Mekari-Officeless projects and more  
+## Selected repositories
 
----
+- **[localstack/localstack](https://github.com/localstack/localstack)** — Contributions to the local AWS cloud emulator for offline serverless development and integration testing.
+- **[nextjs-lambda-cdk](https://github.com/iman-suherman/nextjs-lambda-cdk)** — Next.js application deployed on AWS Lambda with infrastructure defined in AWS CDK.
+- **[btc-lo-extractor](https://github.com/iman-suherman/btc-lo-extractor)** — TypeScript utility for structured data extraction.
+- **[weather-forecast-function](https://github.com/iman-suherman/weather-forecast-function)** — Serverless weather API on AWS.
 
-## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/suhermaniman/)  
-- 🌍 Sydney, Australia  
+## GitHub activity
+
+Arctic Code Vault contributor. Active across organization repositories including [Qantas Loyalty](https://github.com/qantasloyalty), [Qantas Cloud](https://github.com/qantas-cloud), and [PT Jojonomic Indonesia](https://github.com/PT-Jojonomic-Indonesia), as well as Mekari Officeless projects.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/suhermaniman/) · Sydney, Australia
