@@ -18,15 +18,19 @@ Outside day jobs, I build and ship macOS apps and developer tools on [suherman.n
 
 ## Technical focus
 
-**Languages:** TypeScript, JavaScript, Python, Java, Go
+**Languages:** TypeScript, JavaScript, Node.js, Python, Bash, Swift, Java, Go, HCL
 
-**Cloud and platform:** AWS (Lambda, SNS/SQS, CDK, Serverless), GCP (BigQuery, Cloud Run), Azure, Kubernetes, Terraform, Docker/Podman
+**Cloud:** AWS (Lambda, API Gateway, CDK, ECS/EKS, S3, CloudFront, Cognito, SES, Secrets Manager), GCP (Cloud Run, Cloud Functions, GCS, Firestore, Secret Manager, BigQuery, Pub/Sub, Vertex AI), Cloudflare (DNS, Workers, Tunnels), Hetzner Cloud, Azure
 
-**Data:** MongoDB, PostgreSQL, DynamoDB, Redis, Elasticsearch
+**Infrastructure:** Terraform, OpenTofu, AWS CDK, Ansible, Kubernetes (K3s), Helm, Kustomize, Argo CD, Docker, Podman, cert-manager, ingress-nginx, Traefik
 
-**Delivery:** Jenkins, GitHub Actions, CI/CD, DevOps
+**Data:** PostgreSQL, MariaDB, MySQL, DynamoDB, Redis, Firestore, Elasticsearch, Meilisearch, BigQuery, ClickHouse
 
-**Observability:** Grafana, Splunk, OpenTelemetry, Prometheus
+**Delivery:** GitHub Actions, Bitbucket Pipelines, Jenkins, GitOps, Turborepo, Wrangler, macOS launchd services
+
+**Observability:** Prometheus, Grafana, Loki, SigNoz, OpenTelemetry, Alertmanager, Splunk, Uptime Kuma
+
+**Security & edge:** oauth2-proxy, JWT, Cognito, Google OAuth, Sealed Secrets, Tailscale, Cloudflare Workers
 
 ## GitHub activity
 
