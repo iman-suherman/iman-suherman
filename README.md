@@ -1,20 +1,26 @@
 # Iman Suherman
 
-Tech lead and solution architect based in Sydney. Building software since 2000; focused on cloud-native systems, distributed architecture, and production operations since 2011 across AWS, GCP, and Alibaba Cloud.
+**Technology Enthusiast · Cloud Computing Engineer · Microservices Architect**
 
-Currently with **Qantas Loyalty** on the Unified Retail Platform (URP) — large-scale retail eCommerce, microservices, and event-driven integration. Also contributes architecture and infrastructure work for **Mekari Officeless** (multi-tenant SaaS, FinTech, and logistics platforms in Indonesia).
+Greater Sydney Area · [blog.suherman.net](https://blog.suherman.net)
 
-Interested in systems that remain observable and operable in production — metrics, tracing, and logging with Grafana, Splunk, and OpenTelemetry. Runs brown-bag sessions and architecture reviews when time allows.
+Technology leader and hands-on engineer with 20+ years designing, building, and scaling complex systems across cloud, microservices, and modern web and mobile platforms. Focused on serverless architectures, real-time systems, CI/CD, container orchestration, observability, and security — aligning technology strategy with business outcomes.
+
+**Principal Engineer** at **Qantas Loyalty** (since 2021) on the **Universal Retail Platform (URP)** — large-scale retail eCommerce, microservices, and event-driven integration. Leads technical strategy, engineering practices, and delivery across the URP domain.
+
+**DevOps Engineering Lead** at **Mekari** — infrastructure maturity, CI/CD, observability, security, and cost optimization for multi-tenant SaaS, FinTech, and logistics platforms in Indonesia. Previously **VP of Technology** and **Head of Infrastructure** at Jojonomic (Mekari Officeless).
 
 ## Technical focus
 
-**Languages:** TypeScript, Python, Java, Go
+**Languages:** TypeScript, JavaScript, Python, Java, Go
 
-**Cloud and platform:** AWS (Lambda, SNS/SQS, CDK), GCP (BigQuery, Cloud Run), Kubernetes, Terraform, Docker/Podman
+**Cloud and platform:** AWS (Lambda, SNS/SQS, CDK, Serverless), GCP (BigQuery, Cloud Run), Azure, Kubernetes, Terraform, Docker/Podman
 
-**Data:** MongoDB, PostgreSQL, DynamoDB
+**Data:** MongoDB, PostgreSQL, DynamoDB, Redis, Elasticsearch
 
-**Delivery:** Jenkins, GitHub Actions
+**Delivery:** Jenkins, GitHub Actions, CI/CD, DevOps
+
+**Observability:** Grafana, Splunk, OpenTelemetry, Prometheus
 
 ## Selected repositories
 
@@ -29,4 +35,6 @@ Arctic Code Vault contributor. Active across organization repositories including
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/suhermaniman/) · Sydney, Australia
+[blog.suherman.net](https://blog.suherman.net) · iman.suherman@gmail.com · Sydney, Australia
+
+**Languages:** English (professional), Indonesian (native), Malay (limited working)
