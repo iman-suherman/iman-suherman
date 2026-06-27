@@ -1,20 +1,20 @@
-# Iman Suherman
+# Suherman (iman-suherman)
 
 **Technology Enthusiast · Cloud Computing Engineer · Microservices Architect**
 
 Greater Sydney Area
 
-Technology leader and hands-on engineer with 20+ years designing, building, and scaling complex systems across cloud, microservices, and modern web and mobile platforms. Focused on serverless architectures, real-time systems, CI/CD, container orchestration, observability, and security — aligning technology strategy with business outcomes.
+I am a technology leader and hands-on engineer with 20+ years designing, building, and scaling complex systems across cloud, microservices, and modern web and mobile platforms. I work with TypeScript, JavaScript, Python, Java, and Go, and with cloud-native services on AWS, GCP, and Azure. My technical focus includes serverless architectures, real-time systems, CI/CD, container orchestration, observability, and security, aligning technology strategy with business outcomes.
 
-**Principal Engineer** at **Qantas Loyalty** (since 2021) on the **Universal Retail Platform (URP)** — large-scale retail eCommerce, microservices, and event-driven integration. Leads technical strategy, engineering practices, and delivery across the URP domain.
+Currently **Principal Engineer** at **Qantas Loyalty** on the **Universal Retail Platform (URP)**, where I lead technical strategy, engineering practices, and delivery for large-scale retail eCommerce, microservices, and event-driven integration. I also serve as **DevOps Engineering Lead** at **Mekari**, driving infrastructure maturity, CI/CD, observability, security, and cost optimization for multi-tenant SaaS, FinTech, and logistics platforms in Indonesia. Previously I was **VP of Technology** and **Head of Infrastructure** at Jojonomic (Mekari Officeless).
 
-**DevOps Engineering Lead** at **Mekari** — infrastructure maturity, CI/CD, observability, security, and cost optimization for multi-tenant SaaS, FinTech, and logistics platforms in Indonesia. Previously **VP of Technology** and **Head of Infrastructure** at Jojonomic (Mekari Officeless).
+Outside day jobs, I build and ship macOS apps and developer tools on [suherman.net](https://suherman.net), with signed releases, registry APIs, and Cloudflare-backed distribution.
 
 ## Projects
 
-- **[Nucleus](https://nucleus.suherman.net/)** — Personal Workspace for macOS. A native app that unifies Gmail, Google Chat, Google Calendar, clipboard history, and Markdown notes into one command center for professionals juggling multiple Google accounts. Includes Sparkle auto-updates, signed releases, and Nucleus Cloud Sync for settings and data across devices.
-- **[DiskWise](https://diskwise.suherman.net/)** — Intelligent disk analyzer and cleanup assistant for macOS. Scans volumes, surfaces duplicate and stale media, estimates reclaimable space, and suggests actionable cleanup plans with an AI storage consultant — moving files to Trash with preview and undo-friendly workflows.
-- **[CT MCP](https://ct-mcp.suherman.net/)** — Commerce MCP Studio: a VS Code extension for configuring, exploring, and testing [Commerce MCP](https://docs.commercetools.com/dev-tooling/mcp/commerce-mcp) servers with commercetools projects. Manage connections in a side panel, discover tools dynamically, run them in a playground, and download signed VSIX releases from the public registry.
+- **[Nucleus](https://nucleus.suherman.net/)** Personal Workspace for macOS. A native app that unifies Gmail, Google Chat, Google Calendar, clipboard history, and Markdown notes into one command center for professionals juggling multiple Google accounts. Includes Sparkle auto-updates, signed releases, and Nucleus Cloud Sync for settings and data across devices.
+- **[DiskWise](https://diskwise.suherman.net/)** Intelligent disk analyzer and cleanup assistant for macOS. Scans volumes, surfaces duplicate and stale media, estimates reclaimable space, and suggests actionable cleanup plans with an AI storage consultant. Moves files to Trash with preview and undo-friendly workflows.
+- **[CT MCP](https://ct-mcp.suherman.net/)** Commerce MCP Studio: a VS Code extension for configuring, exploring, and testing [Commerce MCP](https://docs.commercetools.com/dev-tooling/mcp/commerce-mcp) servers with commercetools projects. Manage connections in a side panel, discover tools dynamically, run them in a playground, and download signed VSIX releases from the public registry.
 
 ## Technical focus
 
@@ -28,19 +28,14 @@ Technology leader and hands-on engineer with 20+ years designing, building, and 
 
 **Observability:** Grafana, Splunk, OpenTelemetry, Prometheus
 
-## Selected repositories
-
-- **[localstack/localstack](https://github.com/localstack/localstack)** — Contributions to the local AWS cloud emulator for offline serverless development and integration testing.
-- **[nextjs-lambda-cdk](https://github.com/iman-suherman/nextjs-lambda-cdk)** — Next.js application deployed on AWS Lambda with infrastructure defined in AWS CDK.
-- **[btc-lo-extractor](https://github.com/iman-suherman/btc-lo-extractor)** — TypeScript utility for structured data extraction.
-- **[weather-forecast-function](https://github.com/iman-suherman/weather-forecast-function)** — Serverless weather API on AWS.
-
 ## GitHub activity
 
 Arctic Code Vault contributor. Active across organization repositories including [Qantas Loyalty](https://github.com/qantasloyalty), [Qantas Cloud](https://github.com/qantas-cloud), and [PT Jojonomic Indonesia](https://github.com/PT-Jojonomic-Indonesia), as well as Mekari Officeless projects.
 
 ## Contact
 
-iman.suherman@gmail.com · Sydney, Australia
+Email: [iman.suherman@gmail.com](mailto:iman.suherman@gmail.com)
+
+Sydney, Australia
 
 **Languages:** English (professional), Indonesian (native), Malay (limited working)
