@@ -30,7 +30,9 @@ Outside day jobs, I build and ship macOS apps and developer tools on [suherman.n
 
 ## GitHub activity
 
-Arctic Code Vault contributor. Active across organization repositories including [Qantas Loyalty](https://github.com/qantasloyalty), [Qantas Cloud](https://github.com/qantas-cloud), and [PT Jojonomic Indonesia](https://github.com/PT-Jojonomic-Indonesia), as well as Mekari Officeless projects.
+**Achievements:** Pull Shark (×4), Pair Extraordinaire (×4), YOLO, Quickdraw, Arctic Code Vault Contributor
+
+**Organizations:** [Qantas Loyalty](https://github.com/qantasloyalty), [Qantas Cloud Platform](https://github.com/qantas-cloud), [PT Jojonomic Indonesia](https://github.com/PT-Jojonomic-Indonesia), [officeless-platform](https://github.com/officeless-platform), [rml-ecv-mekari](https://github.com/rml-ecv-mekari), [Tutorial-System](https://github.com/Tutorial-System), [Pojokan-Guru-Ahli](https://github.com/Pojokan-Guru-Ahli), [Khitah-LMS](https://github.com/Khitah-LMS), [Ujian-Online](https://github.com/Ujian-Online), [Appitzr-Project](https://github.com/Appitzr-Project), [Trauma-Screening](https://github.com/Trauma-Screening), [pojokandev](https://github.com/pojokandev), [HugeShop](https://github.com/HugeShop), [alocare-ai](https://github.com/alocare-ai), [HaloRT](https://github.com/HaloRT), [BrightannicaTech](https://github.com/BrightannicaTech), [LegalAdviceCTP](https://github.com/LegalAdviceCTP), [ticktopus](https://github.com/ticktopus)
 
 ## Contact
 
