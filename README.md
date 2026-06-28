@@ -15,6 +15,7 @@ Outside day jobs, I build and ship macOS apps and developer tools on [suherman.n
 - **[Nucleus](https://nucleus.suherman.net/)** Personal Workspace for macOS. A native app that unifies Gmail, Google Chat, Google Calendar, clipboard history, and Markdown notes into one command center for professionals juggling multiple Google accounts. Includes Sparkle auto-updates, signed releases, and Nucleus Cloud Sync for settings and data across devices.
 - **[DiskWise](https://diskwise.suherman.net/)** Intelligent disk analyzer and cleanup assistant for macOS. Scans volumes, surfaces duplicate and stale media, estimates reclaimable space, and suggests actionable cleanup plans with an AI storage consultant. Moves files to Trash with preview and undo-friendly workflows.
 - **[CT MCP](https://ct-mcp.suherman.net/)** Commerce MCP Studio: a VS Code extension for configuring, exploring, and testing [Commerce MCP](https://docs.commercetools.com/dev-tooling/mcp/commerce-mcp) servers with commercetools projects. Manage connections in a side panel, discover tools dynamically, run them in a playground, and download signed VSIX releases from the public registry.
+- **[sshhh connect](https://sshhhh.teknopus.space/)** Modern SSH client for macOS. Multi-tab terminals, SFTP browser, port forwarding, VNC, saved connections with groups, SSH key vault, and command palette — with Touch ID app lock, Smart Guard, and optional Google Cloud sync. Signed DMG releases with Sparkle auto-updates and keychain-backed credential storage.
 
 ## Technical focus
 
