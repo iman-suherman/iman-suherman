@@ -8,14 +8,37 @@ I am a technology leader and hands-on engineer with 20+ years designing, buildin
 
 Currently **Principal Engineer** at **Qantas Loyalty** on the **Universal Retail Platform (URP)**, where I lead technical strategy, engineering practices, and delivery for large-scale retail eCommerce, microservices, and event-driven integration. I also serve as **DevOps Engineering Lead** at **Mekari**, driving infrastructure maturity, CI/CD, observability, security, and cost optimization for multi-tenant SaaS, FinTech, and logistics platforms in Indonesia. Previously I was **VP of Technology** and **Head of Infrastructure** at Jojonomic (Mekari Officeless).
 
-Outside day jobs, I build and ship macOS apps and developer tools on [suherman.net](https://suherman.net), with signed releases, registry APIs, and Cloudflare-backed distribution.
+Outside day jobs, I build and ship products on [suherman.net](https://suherman.net) — platforms, macOS and mobile apps, developer tools, and local AI gateways — with signed releases, registry APIs, and Cloudflare-backed distribution.
 
 ## Projects
 
-- **[Nucleus](https://nucleus.suherman.net/)** Personal Workspace for macOS. A native app that unifies Gmail, Google Chat, Google Calendar, clipboard history, and Markdown notes into one command center for professionals juggling multiple Google accounts. Includes Sparkle auto-updates, signed releases, and Nucleus Cloud Sync for settings and data across devices.
-- **[DiskWise](https://diskwise.suherman.net/)** Intelligent disk analyzer and cleanup assistant for macOS. Scans volumes, surfaces duplicate and stale media, estimates reclaimable space, and suggests actionable cleanup plans with an AI storage consultant. Moves files to Trash with preview and undo-friendly workflows.
-- **[CT MCP](https://ct-mcp.suherman.net/)** Commerce MCP Studio: a VS Code extension for configuring, exploring, and testing [Commerce MCP](https://docs.commercetools.com/dev-tooling/mcp/commerce-mcp) servers with commercetools projects. Manage connections in a side panel, discover tools dynamically, run them in a playground, and download signed VSIX releases from the public registry.
-- **[sshhh connect](https://sshhhh.teknopus.space/)** Modern SSH client for macOS. Multi-tab terminals, SFTP browser, port forwarding, VNC, saved connections with groups, SSH key vault, and command palette — with Touch ID app lock, Smart Guard, and optional Google Cloud sync. Signed DMG releases with Sparkle auto-updates and keychain-backed credential storage.
+Products and platforms already live — from community and health platforms to macOS apps and developer tools.
+
+### Platforms
+
+- **[HaloRT](https://www.halort.com/)** Multi-tenant community SaaS for RT, RW, residential clusters, and neighborhood organizations across Indonesia — marketing, platform, admin, and tenant sites.
+- **[AloCare](https://alocare.net/)** Personalized Health Intelligence — patient/clinician portals, AI clinical engine, hospital queue, and mobile apps for modern care delivery.
+- **[Ticktopus](https://helpdesk.mekari.io/)** Enterprise helpdesk and ticketing platform — omnichannel tickets, WhatsApp, email, SIP softphone, SLA, and AI agents in Google Chat.
+
+### macOS apps
+
+- **[Nucleus](https://nucleus.suherman.net/)** Personal Workspace for macOS — Gmail, Chat, Calendar, clipboard, and Markdown notes in one command center, with Cloud Sync, AI Overview, and Sparkle updates.
+- **[DiskWise](https://diskwise.suherman.net/)** Intelligent disk analyzer and cleanup assistant for macOS — and iOS — with duplicate/stale media detection, reclaimable space, and an AI storage consultant.
+- **[Soraku](https://soraku.teknopus.space/)** Lightweight Kubernetes IDE (Rust + React) — multi-cluster explorer, integrated terminal, and built-in AI assistant, starting in under a second.
+- **[MigraSync](https://migrasync.teknopus.space/)** Officeless desktop tool for migrating and deploying workflow configurations — signed macOS releases with registry and Sparkle updates.
+- **[sshhh connect](https://sshhhh.teknopus.space/)** Modern SSH client for macOS — multi-tab terminal, SFTP, port forwarding, VNC, key vault, Touch ID lock, and optional Cloud sync.
+
+### Developer tools
+
+- **[CT MCP](https://ct-mcp.suherman.net/)** Commerce MCP Studio: a VS Code extension to configure, explore, and test Commerce MCP servers with commercetools — signed VSIX via the public registry.
+- **[Officeless MCP](https://officeless-mcp.suherman.net/)** Officeless Code Intelligence / MCP stack — VS Code tooling, registry API, and signed downloads on suherman.net.
+- **[AI Engineering Workbench](https://workbench.suherman.net/)** Open-source hub for AI-assisted engineering investigation — multi-repo evidence workflows with a public marketing/demo site.
+
+### Mobile, media & AI
+
+- **[ArahBaik](https://arahbaik.suherman.net/)** Daily guidance app rooted in Eastern tradition — shio, elements, direction, and calendar — with a marketing site at arahbaik.suherman.net.
+- **[CineView](https://cineview.suherman.net/)** Movies & TV library player for Apple TV — TMDB metadata, subtitles, favorites, and continue watching via cineview.suherman.net.
+- **[Ollama AI](https://ai.suherman.net/)** Authenticated local-LLM gateway — chat UI, API keys, OpenAI/Ollama-compatible endpoints via Cloudflare Tunnel.
 
 ## Technical focus
 
