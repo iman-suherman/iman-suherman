@@ -18,7 +18,6 @@ Products and platforms already live — from community and health platforms to m
 
 - **[HaloRT](https://www.halort.com/)** Multi-tenant community SaaS for RT, RW, residential clusters, and neighborhood organizations across Indonesia — marketing, platform, admin, and tenant sites.
 - **[AloCare](https://alocare.net/)** Personalized Health Intelligence — patient/clinician portals, AI clinical engine, hospital queue, and mobile apps for modern care delivery.
-- **[Dokter Alami](https://dokter-alami.suherman.net/)** Personal integrative health AI for Indonesia — understand symptoms and habits, explore labelled natural approaches, triage when to see a doctor, and follow a longitudinal health journey. Companion, not AI doctor.
 - **[Ticktopus](https://helpdesk.mekari.io/)** Enterprise helpdesk and ticketing platform — omnichannel tickets, WhatsApp, email, SIP softphone, SLA, and AI agents in Google Chat.
 - **[Lakuyo](https://lakuyo.suherman.net/)** Local-first POS + inventory for warung, cafés, and shops — Android, iOS, macOS, and Windows; offline on every device; free on one device, Pro for multi-device sync.
 - **[MarketPilot](https://marketpilot.suherman.net/)** AI-powered marketing intelligence — product research, SEO & AI Search, multi-channel campaigns, attribution, and continuous optimisation.
@@ -32,6 +31,7 @@ Products and platforms already live — from community and health platforms to m
 - **[sshhh connect](https://sshhhh.teknopus.space/)** Modern SSH client for macOS — multi-tab terminal, SFTP, port forwarding, VNC, key vault, Touch ID lock, and optional Cloud sync.
 - **[ArahBaik](https://arahbaik.suherman.net/)** Daily guidance app rooted in Eastern tradition — shio, elements, direction, and calendar.
 - **[ANANTA](https://ananta.suherman.net/)** Spiritual companion across humanity’s wisdom traditions — provenance-backed practice and labelled AI reflection. Many paths. One journey inward.
+- **[Dokter Alami](https://dokter-alami.suherman.net/)** Personal integrative health AI for Indonesia — understand symptoms and habits, explore labelled natural approaches, triage when to see a doctor, and follow a longitudinal health journey. Companion, not AI doctor.
 
 ### Developer tools
 
