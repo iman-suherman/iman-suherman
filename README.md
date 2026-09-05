@@ -18,6 +18,7 @@ Products and platforms already live — from community and health platforms to m
 
 - **[HaloRT](https://www.halort.com/)** Multi-tenant community SaaS for RT, RW, residential clusters, and neighborhood organizations across Indonesia — marketing, platform, admin, and tenant sites.
 - **[AloCare](https://alocare.net/)** Personalized Health Intelligence — patient/clinician portals, AI clinical engine, hospital queue, and mobile apps for modern care delivery.
+- **[Dokter Alami](https://dokter-alami.suherman.net/)** Personal integrative health AI for Indonesia — understand symptoms and habits, explore labelled natural approaches, triage when to see a doctor, and follow a longitudinal health journey. Companion, not AI doctor.
 - **[Ticktopus](https://helpdesk.mekari.io/)** Enterprise helpdesk and ticketing platform — omnichannel tickets, WhatsApp, email, SIP softphone, SLA, and AI agents in Google Chat.
 - **[Lakuyo](https://lakuyo.suherman.net/)** Local-first POS + inventory for warung, cafés, and shops — Android, iOS, macOS, and Windows; offline on every device; free on one device, Pro for multi-device sync.
 - **[MarketPilot](https://marketpilot.suherman.net/)** AI-powered marketing intelligence — product research, SEO & AI Search, multi-channel campaigns, attribution, and continuous optimisation.
