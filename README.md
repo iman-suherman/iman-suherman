@@ -2,7 +2,7 @@
 
 **Technology Enthusiast · Cloud Computing Engineer · Microservices Architect**
 
-Greater Sydney Area · [About](https://iman.suherman.net/) · [LinkedIn](https://www.linkedin.com/in/suhermaniman/) · [Portfolio](https://suherman.net)
+Greater Sydney Area · [About](https://iman.suherman.net/) · [LinkedIn](https://www.linkedin.com/in/suhermaniman/) · [Portfolio](https://suherman.net) · [Articles](https://suherman.net/articles)
 
 I am a technology leader and hands-on engineer with 20+ years designing, building, and scaling complex systems across cloud, microservices, and modern web and mobile platforms. I work with TypeScript, JavaScript, Python, Java, and Go, and with cloud-native services on AWS, GCP, and Azure. My technical focus includes serverless architectures, real-time systems, CI/CD, container orchestration, observability, and security, aligning technology strategy with business outcomes.
 
@@ -12,10 +12,12 @@ Outside day jobs, I build and ship products on [suherman.net](https://suherman.n
 
 ## Projects
 
-Products and platforms already live — from community and health platforms to macOS apps and developer tools.
+Products and platforms already live — from community and health platforms to forms, analytics, macOS apps, and developer tools. Canonical portfolio: [suherman.net/projects](https://suherman.net/projects).
 
 ### Platforms
 
+- **[Formiva](https://formiva.suherman.net/)** Commercial forms and workflow platform — FormSpec as the contract, native Android/iOS operators plus a web console, anonymous public respondents, live results, and CSV/Excel export. Publish at formiva.suherman.net ([guides](https://formiva.suherman.net/guide)).
+- **[Analytica](https://analytica.suherman.net/)** Governed AI analytics Copilot — natural-language questions, evidence-backed answers via QueryPlan (never arbitrary SQL), and living dashboards. Live prototype at [analytica-demo.suherman.net](https://analytica-demo.suherman.net/).
 - **[HaloRT](https://www.halort.com/)** Multi-tenant community SaaS for RT, RW, residential clusters, and neighborhood organizations across Indonesia — marketing, platform, admin, and tenant sites.
 - **[AloCare](https://alocare.net/)** Personalized Health Intelligence — patient/clinician portals, AI clinical engine, hospital queue, and mobile apps for modern care delivery.
 - **[Ticktopus](https://helpdesk.mekari.io/)** Enterprise helpdesk and ticketing platform — omnichannel tickets, WhatsApp, email, SIP softphone, SLA, and AI agents in Google Chat.
@@ -35,15 +37,27 @@ Products and platforms already live — from community and health platforms to m
 
 ### Developer tools
 
+- **[Agent On Rails](https://agent-on-rails.suherman.net/)** Docs-first, spec-driven control plane for AI software delivery — define the contract, let agents implement with review, escalation, and evidence before done. CLI + Android monitoring; GitHub as the operating surface.
 - **[CT MCP](https://ct-mcp.suherman.net/)** Commerce MCP Studio: a VS Code extension to configure, explore, and test Commerce MCP servers with commercetools — signed VSIX via the public registry.
 - **[Officeless MCP](https://officeless-mcp.suherman.net/)** Officeless Code Intelligence / MCP stack — VS Code tooling, registry API, and signed downloads on suherman.net.
 - **[AI Engineering Workbench](https://workbench.suherman.net/)** Open-source hub for AI-assisted engineering investigation — multi-repo evidence workflows with a public marketing/demo site.
+- **[SurveyDesk](https://github.com/iman-suherman/survey-desk)** Open Spec-Driven forms demo (FormSpec, local API, native operators) — ancestor of Formiva.
 
 ### AI & media
 
 - **[Maya](https://maya.suherman.net/)** WhatsApp-first AI travel companion for Anamaya / yBizTrip — natural-language trip intake, policy-aware flight & hotel picks, ESPPD + approval, and e-ticket delivery.
 - **[Ollama AI](https://ai.suherman.net/)** Authenticated local-LLM gateway — chat UI, API keys, OpenAI/Ollama-compatible endpoints via Cloudflare Tunnel.
 - **[CineView](https://cineview.suherman.net/)** Movies & TV library player for Apple TV — TMDB metadata, subtitles, favorites, and continue watching.
+
+## Writing
+
+Articles on Spec-Driven Development, Agent On Rails, and craft vs AI-generated code — all on [suherman.net/articles](https://suherman.net/articles):
+
+- [Crafted vs AI-generated: how to read a Spec-Driven repo](https://suherman.net/articles/crafted-vs-ai-generated-code) (13 Sep 2026)
+- [Agent On Rails + SurveyDesk specs](https://suherman.net/articles/agent-on-rails-surveydesk-specs) (12 Sep 2026)
+- [Spec-Driven Development](https://suherman.net/articles/spec-driven-development) (11 Sep 2026)
+- [Agent On Rails escalation watchdog](https://suherman.net/articles/agent-on-rails-escalation-watchdog) (9 Sep 2026)
+- [OpenCode + Ollama coding agent](https://suherman.net/articles/opencode-ollama-coding-agent) (7 Sep 2026)
 
 ## Technical focus
 
@@ -65,7 +79,7 @@ Products and platforms already live — from community and health platforms to m
 
 **Achievements:** Pull Shark (×4), Pair Extraordinaire (×4), YOLO, Quickdraw, Arctic Code Vault Contributor
 
-**Organizations:** [Qantas Loyalty](https://github.com/qantasloyalty), [Qantas Cloud Platform](https://github.com/qantas-cloud), [PT Jojonomic Indonesia](https://github.com/PT-Jojonomic-Indonesia), [officeless-platform](https://github.com/officeless-platform), [rml-ecv-mekari](https://github.com/rml-ecv-mekari), [Tutorial-System](https://github.com/Tutorial-System), [Pojokan-Guru-Ahli](https://github.com/Pojokan-Guru-Ahli), [Khitah-LMS](https://github.com/Khitah-LMS), [Ujian-Online](https://github.com/Ujian-Online), [Appitzr-Project](https://github.com/Appitzr-Project), [Trauma-Screening](https://github.com/Trauma-Screening), [pojokandev](https://github.com/pojokandev), [HugeShop](https://github.com/HugeShop), [alocare-ai](https://github.com/alocare-ai), [HaloRT](https://github.com/HaloRT), [BrightannicaTech](https://github.com/BrightannicaTech), [LegalAdviceCTP](https://github.com/LegalAdviceCTP), [ticktopus](https://github.com/ticktopus)
+**Organizations:** [Formiva](https://github.com/Formiva), [HaloRT](https://github.com/HaloRT), [alocare-ai](https://github.com/alocare-ai), [ticktopus](https://github.com/ticktopus), [HugeShop](https://github.com/HugeShop), [Qantas Loyalty](https://github.com/qantasloyalty), [Qantas Cloud Platform](https://github.com/qantas-cloud), [PT Jojonomic Indonesia](https://github.com/PT-Jojonomic-Indonesia), [officeless-platform](https://github.com/officeless-platform), [rml-ecv-mekari](https://github.com/rml-ecv-mekari), [BrightannicaTech](https://github.com/BrightannicaTech), [LegalAdviceCTP](https://github.com/LegalAdviceCTP), [Tutorial-System](https://github.com/Tutorial-System), [Pojokan-Guru-Ahli](https://github.com/Pojokan-Guru-Ahli), [Khitah-LMS](https://github.com/Khitah-LMS), [Ujian-Online](https://github.com/Ujian-Online), [Appitzr-Project](https://github.com/Appitzr-Project), [Trauma-Screening](https://github.com/Trauma-Screening), [pojokandev](https://github.com/pojokandev)
 
 ## Contact
 
