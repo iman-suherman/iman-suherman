@@ -46,6 +46,7 @@ Products and platforms already live — from community and health platforms to f
 
 ### AI & media
 
+- **[Sapa](https://sapa.business/)** AI growth agent for restaurants — live in about 5 minutes from Google Places. WhatsApp receptionist, reservations, follow-ups, reviews, and pay-after-proof onboarding.
 - **[Maya](https://maya.suherman.net/)** WhatsApp-first AI travel companion for Anamaya / yBizTrip — natural-language trip intake, policy-aware flight & hotel picks, ESPPD + approval, and e-ticket delivery.
 - **[Ollama AI](https://ai.suherman.net/)** Authenticated local-LLM gateway — chat UI, API keys, OpenAI/Ollama-compatible endpoints via Cloudflare Tunnel.
 - **[CineView](https://cineview.suherman.net/)** Movies & TV library player for Apple TV — TMDB metadata, subtitles, favorites, and continue watching.
