@@ -24,6 +24,13 @@ Products and platforms already live — from community and health platforms to f
 - **[Ticktopus](https://helpdesk.mekari.io/)** Enterprise helpdesk and ticketing platform — omnichannel tickets, WhatsApp, email, SIP softphone, SLA, and AI agents in Google Chat.
 - **[Lakuyo](https://lakuyo.suherman.net/)** Local-first POS + inventory for warung, cafés, and shops — Android, iOS, macOS, and Windows; offline on every device; free on one device, Pro for multi-device sync.
 - **[MarketPilot](https://marketpilot.suherman.net/)** AI-powered marketing intelligence — product research, SEO & AI Search, multi-channel campaigns, attribution, and continuous optimisation.
+- **[Sapa](https://sapa.business/)** AI growth agent for restaurants — live in about 5 minutes from Google Places. WhatsApp receptionist, reservations, follow-ups, reviews, and pay-after-proof onboarding.
+- **[HugeShop](https://www.hugeshop.com/)** Cross-border e-commerce platform — catalog, cart, Adyen payments, search, content, and ops services powering hugeshop.com / hugeshop.com.au.
+- **[LegalAdvice](https://www.legaladvice.com.au/)** Australian legal enquiry and content platform — lawyer lead generation, SEO landing pages, NSW CTP, crawler fleet, and admin case management.
+- **[MGP Growth OS](https://www.dentalimplantsandveneers.com.au/)** AI-powered patient acquisition for Medical Growth Partners — DIV site rebuild, compliance-first content workflow, and local MLX article factory at [ai.dentalimplantsandveneers.com.au](https://ai.dentalimplantsandveneers.com.au/).
+- **[Raisd Campus](https://raisd-campus.github.io/portal-api-docs/)** Campus management portals on the existing CMS — applicant, student, lecturer, and staff journeys with a Portal API control plane (Cyberjaya-first).
+- **[Brightannica](https://www.brightannica.com.au/)** Education brand sites and CRM for Australian college pathways — marketing, CMS, and lead operations.
+- **[CheapCollege](https://www.cheapcollege.com.au/)** Marketing site and headless CMS for cheapcollege.com.au — SEO-friendly courses, enquiry capture, and serverless content publishing.
 
 ### macOS & mobile apps
 
@@ -32,21 +39,27 @@ Products and platforms already live — from community and health platforms to f
 - **[Soraku](https://soraku.teknopus.space/)** Lightweight Kubernetes IDE (Rust + React) — multi-cluster explorer, integrated terminal, and built-in AI assistant, starting in under a second.
 - **[MigraSync](https://migrasync.teknopus.space/)** Officeless desktop tool for migrating and deploying workflow configurations — signed macOS releases with registry and Sparkle updates.
 - **[sshhh connect](https://sshhhh.teknopus.space/)** Modern SSH client for macOS — multi-tab terminal, SFTP, port forwarding, VNC, key vault, Touch ID lock, and optional Cloud sync.
+- **[MongoMas](https://mongomas.teknopus.space/)** MongoDB AI agent & dashboard (Rust + React) — multi-instance connections, live metrics, slow-query profiling, schema tools, and one-click AI index advisor.
 - **[ArahBaik](https://arahbaik.suherman.net/)** Daily guidance app rooted in Eastern tradition — shio, elements, direction, and calendar.
 - **[ANANTA](https://ananta.suherman.net/)** Spiritual companion across humanity’s wisdom traditions — provenance-backed practice and labelled AI reflection. Many paths. One journey inward.
 - **[Dokter Alami](https://dokter-alami.suherman.net/)** Personal integrative health AI for Indonesia — understand symptoms and habits, explore labelled natural approaches, triage when to see a doctor, and follow a longitudinal health journey. Companion, not AI doctor.
+- **[Titip](https://titip.suherman.net/)** Leave clear, recipient-scoped guidance — not passwords — and withhold it until presence checks, trusted people, and an explainable review say it may be released.
 
 ### Developer tools
 
 - **[Agent On Rails](https://agent-on-rails.suherman.net/)** Docs-first, spec-driven control plane for AI software delivery — define the contract, let agents implement with review, escalation, and evidence before done. CLI + Android monitoring; GitHub as the operating surface.
+- **[Ngelur](https://ngelur.suherman.net/)** Farm for AI agents — give chickens work orders, harvest eggs (plans & artifacts) asynchronously. Playable pet prototype at [ngelur.suherman.net/play](https://ngelur.suherman.net/play).
 - **[CT MCP](https://ct-mcp.suherman.net/)** Commerce MCP Studio: a VS Code extension to configure, explore, and test Commerce MCP servers with commercetools — signed VSIX via the public registry.
 - **[Officeless MCP](https://officeless-mcp.suherman.net/)** Officeless Code Intelligence / MCP stack — VS Code tooling, registry API, and signed downloads on suherman.net.
 - **[AI Engineering Workbench](https://workbench.suherman.net/)** Open-source hub for AI-assisted engineering investigation — multi-repo evidence workflows with a public marketing/demo site.
+- **[FinOps Intelligence](https://finops.vas.mekari.com/)** Kubernetes and cloud cost visibility for Teknopus / Mekari VAS — agent-fed workload costing, efficiency scoring, and multi-cloud pricing.
+- **[Capacity Intelligence](https://capacity-sd.mekari.com/)** Kubernetes memory capacity intelligence — OOM prediction, growth-rate analysis, and deterministic workload risk scoring.
+- **[Cloud Secret Manager](https://secrets.vas.mekari.com/)** Multi-cloud secret platform with tenant RBAC, GitHub OIDC for CI, developer CLI, and per-project secret storage.
+- **[Tentacles](https://tentacles.vas.mekari.com/)** CI/CD control plane + agents — GitOps deploy and OCI builds as a replacement path for Jenkins + Argo CD.
 - **[SurveyDesk](https://github.com/iman-suherman/survey-desk)** Open Spec-Driven forms demo (FormSpec, local API, native operators) — ancestor of Formiva.
 
 ### AI & media
 
-- **[Sapa](https://sapa.business/)** AI growth agent for restaurants — live in about 5 minutes from Google Places. WhatsApp receptionist, reservations, follow-ups, reviews, and pay-after-proof onboarding.
 - **[Maya](https://maya.suherman.net/)** WhatsApp-first AI travel companion for Anamaya / yBizTrip — natural-language trip intake, policy-aware flight & hotel picks, ESPPD + approval, and e-ticket delivery.
 - **[Ollama AI](https://ai.suherman.net/)** Authenticated local-LLM gateway — chat UI, API keys, OpenAI/Ollama-compatible endpoints via Cloudflare Tunnel.
 - **[CineView](https://cineview.suherman.net/)** Movies & TV library player for Apple TV — TMDB metadata, subtitles, favorites, and continue watching.
